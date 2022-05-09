@@ -1,2 +1,2 @@
 # Eduraka
-this is my first.
+this is my first github project
